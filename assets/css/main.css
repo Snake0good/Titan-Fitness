@@ -3930,5 +3930,11 @@ input, select, textarea {
 
 .show {
 	display: block;
-	transition: ;
+}
+
+
+.logo {
+	width: 25% !important;
+	margin-bottom: 55px;
+	border-radius: 50%;
 }
